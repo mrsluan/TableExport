@@ -3,8 +3,10 @@
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   TERMOS E CONDIÇÕES PARA USO, REPROCUÇÃO, E DISTRIBUIÇÃO
 
    1. Definitions.
+   1. Definições.
 
       "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
