@@ -17,6 +17,9 @@
       "Licensor" shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
 
+      "Licenciador" significa o proprietário do copyright ou entidade autorizada pelo
+        proprietário do copyright que esta atribuíndo a Licença.
+
       "Legal Entity" shall mean the union of the acting entity and all
       other entities that control, are controlled by, or are under common
       control with that entity. For the purposes of this definition,
